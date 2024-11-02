@@ -45,7 +45,7 @@ const MonstersSection = () => {
             {
                 filterMonstersBySearch.map((monster) => {
                     return (
-                        <Card key={monster.id} clase={monster.clase} rango={monster.rango} apariencia={monster.apariencia} poderes={monster.poderes} img={monster.img} />
+                        <Card key={monster.id} clase={monster.clase} rango={monster.rango} apariencia={monster.apariencia} poderes={monster.poderes} img={monster.img} nivel={monster.nivel} descripcion={monster.descripcion} />
                     )
                 })
             }

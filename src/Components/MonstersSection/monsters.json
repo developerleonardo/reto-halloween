@@ -5,7 +5,9 @@
         "rango": "Vampiro supremo",
         "apariencia": "Piel pálida, colmillos largos",
         "poderes": "Inmortalidad, regeneración, vuelo",
-        "img": "https://cdn.pixabay.com/photo/2020/05/27/16/48/vampire-5228011_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2020/05/27/16/48/vampire-5228011_1280.png",
+        "nivel": "Muy alto",
+        "descripcion": "El vampiro más poderoso, casi invencible."
     },
     {
         "id": 2,
@@ -13,7 +15,9 @@
         "rango": "Conde de la Noche",
         "apariencia": "Elegante, capa negra, mirada hipnotizante, ojos rojos",
         "poderes": "Hipnosis, vuelo, fuerza sobrehumana",
-        "img": "https://cdn.pixabay.com/photo/2016/11/26/02/26/dark-1859934_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2016/11/26/02/26/dark-1859934_960_720.png",
+        "nivel": "Alto",
+        "descripcion": "Un vampiro noble y seductor que controla la noche."
     },
     {
         "id": 3,
@@ -21,7 +25,9 @@
         "rango": "Guerrero",
         "apariencia": "Con alas y armas",
         "poderes": "Velocidad, mordida mortal",
-        "img": "https://cdn.pixabay.com/photo/2022/08/25/04/00/vampire-7409205_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2022/08/25/04/00/vampire-7409205_960_720.png",
+        "nivel": "Muy alto",
+        "descripcion": "Vampiro feroz en combate, ágil y letal."
     },
     {
         "id": 4,
@@ -29,7 +35,9 @@
         "rango": "Nocturno",
         "apariencia": "Sin sombra, piel grisácea, voz susurrante",
         "poderes": "Invisibilidad en la noche, detección de sangre",
-        "img": "https://cdn.pixabay.com/photo/2015/07/06/08/53/vampire-833096_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2015/07/06/08/53/vampire-833096_960_720.png",
+        "nivel": "Medio",
+        "descripcion": "Un vampiro sigiloso que se oculta en la oscuridad."
     },
     {
         "id": 5,
@@ -37,7 +45,9 @@
         "rango": "Sombra de la Luna",
         "apariencia": "Apariencia etérea, colmillos de plata",
         "poderes": "Control de sombras, vuelo silencioso",
-        "img": "https://cdn.pixabay.com/photo/2017/10/16/01/43/vampire-2855889_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2017/10/16/01/43/vampire-2855889_960_720.png",
+        "nivel": "Medio",
+        "descripcion": "Vampiro etéreo, maestro de las sombras."
     },
     {
         "id": 6,
@@ -45,7 +55,9 @@
         "rango": "Alfa",
         "apariencia": "Alto, musculoso, con pelaje gris y ojos oscuros",
         "poderes": "Transformación, fuerza inmensa, sentido del olfato aumentado",
-        "img": "https://cdn.pixabay.com/photo/2018/05/14/23/33/werewolf-3401898_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2018/05/14/23/33/werewolf-3401898_960_720.png",
+        "nivel": "Muy alto",
+        "descripcion": "El líder de la manada, fuerte y dominante."
     },
     {
         "id": 7,
@@ -53,7 +65,9 @@
         "rango": "Guardián de la Manada",
         "apariencia": "Pelaje oscuro, cicatrices de batalla",
         "poderes": "Regeneración rápida, sentidos agudizados",
-        "img": "https://cdn.pixabay.com/photo/2016/08/03/14/08/werewolf-1566753_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2016/08/03/14/08/werewolf-1566753_960_720.png",
+        "nivel": "Muy alto",
+        "descripcion": "Protector de su clan, con habilidades de sanación."
     },
     {
         "id": 8,
@@ -61,7 +75,9 @@
         "rango": "Cazador Nocturno",
         "apariencia": "Alopecia, colmillos afilados",
         "poderes": "Visión nocturna, agilidad extrema",
-        "img": "https://cdn.pixabay.com/photo/2020/08/16/01/15/fantasy-5491615_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2020/08/16/01/15/fantasy-5491615_1280.png",
+        "nivel": "Alto",
+        "descripcion": "Especialista en cazar bajo la luz de la luna."
     },
     {
         "id": 9,
@@ -69,7 +85,9 @@
         "rango": "Feroz",
         "apariencia": "Garras enormes, mirada salvaje, lomo blanco",
         "poderes": "Velocidad en combate, resistencia",
-        "img": "https://cdn.pixabay.com/photo/2020/03/22/04/12/creature-4955810_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2020/03/22/04/12/creature-4955810_1280.png",
+        "nivel": "Alto",
+        "descripcion": "Hombre lobo rápido y resistente, con instinto cazador."
     },
     {
         "id": 10,
@@ -77,7 +95,9 @@
         "rango": "Bestia de la Luna Llena",
         "apariencia": "Pelaje blanco, ojos brillantes",
         "poderes": "Furia lunar, poder destructivo",
-        "img": "https://cdn.pixabay.com/photo/2020/08/16/01/14/fantasy-5491613_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2020/08/16/01/14/fantasy-5491613_1280.png",
+        "nivel": "Medio",
+        "descripcion": "Despierta su mayor fuerza bajo la luna llena."
     },
     {
         "id": 11,
@@ -85,7 +105,9 @@
         "rango": "Espíritu Errante",
         "apariencia": "Transparente",
         "poderes": "Invisibilidad, levitación, pasar a través de paredes",
-        "img": "https://cdn.pixabay.com/photo/2016/03/31/21/02/death-1296154_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2016/03/31/21/02/death-1296154_960_720.png",
+        "nivel": "Alto",
+        "descripcion": "Un alma perdida, sin descanso ni destino."
     },
     {
         "id": 12,
@@ -93,7 +115,9 @@
         "rango": "Espectro de Venganza",
         "apariencia": "Vapor blanco, rostro distorsionado por el odio",
         "poderes": "Congelar el aire, causar terror",
-        "img": "https://cdn.pixabay.com/photo/2017/10/24/14/58/halloween-2884809_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2017/10/24/14/58/halloween-2884809_960_720.png",
+        "nivel": "Muy alto",
+        "descripcion": "Un espíritu consumido por la sed de venganza."
     },
     {
         "id": 13,
@@ -101,7 +125,9 @@
         "rango": "Alma Penitente",
         "apariencia": "Vestiduras antiguas, rostro de angustia",
         "poderes": "Llorar lamentos, absorción de energía",
-        "img": "https://cdn.pixabay.com/photo/2013/07/13/11/47/woman-158669_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2013/07/13/11/47/woman-158669_1280.png",
+        "nivel": "Medio",
+        "descripcion": "Espíritu que llora por sus pecados, cargando su pena."
     },
     {
         "id": 14,
@@ -109,7 +135,9 @@
         "rango": "Sombras del Pasado",
         "apariencia": "Oscura, borrosa, siempre en movimiento",
         "poderes": "Apariciones repentinas, inducir visiones del pasado",
-        "img": "https://cdn.pixabay.com/photo/2019/10/02/18/11/spirit-4521629_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2019/10/02/18/11/spirit-4521629_1280.png",
+        "nivel": "Medio",
+        "descripcion": "Aparición que revela escenas olvidadas del pasado."
     },
     {
         "id": 15,
@@ -117,7 +145,9 @@
         "rango": "Guardián del Más Allá",
         "apariencia": "Apariencia de persona, cara desfigurada",
         "poderes": "Control de otros espíritus, crear ilusiones",
-        "img": "https://cdn.pixabay.com/photo/2012/04/11/16/32/ghost-28802_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2012/04/11/16/32/ghost-28802_960_720.png",
+        "nivel": "Bajo",
+        "descripcion": "Protector de almas, con poderes para guiar a los muertos."
     },
     {
         "id": 16,
@@ -125,7 +155,9 @@
         "rango": "Hechicera Suprema",
         "apariencia": "Piel verde, ojos amarillos, cabello blanco",
         "poderes": "Hechizos oscuros, control mental",
-        "img": "https://cdn.pixabay.com/photo/2021/11/01/03/22/character-6759290_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2021/11/01/03/22/character-6759290_1280.png",
+        "nivel": "Muy alto",
+        "descripcion": "La bruja más poderosa, experta en magia oscura."
     },
     {
         "id": 17,
@@ -133,7 +165,9 @@
         "rango": "Encantadora",
         "apariencia": "Apariencia atractiva",
         "poderes": "Control de mentes, creación de ilusiones",
-        "img": "https://cdn.pixabay.com/photo/2020/04/01/14/02/women-4991338_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2020/04/01/14/02/women-4991338_1280.png",
+        "nivel": "Bajo",
+        "descripcion": "Seductora y manipuladora, controla las mentes con facilidad."
     },
     {
         "id": 18,
@@ -141,7 +175,9 @@
         "rango": "Bruja de los Bosques",
         "apariencia": "Ropa de hojas, escoba de madera",
         "poderes": "Comunicación con animales, creación de pociones",
-        "img": "https://cdn.pixabay.com/photo/2018/09/18/19/12/the-witch-3686982_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2018/09/18/19/12/the-witch-3686982_960_720.png",
+        "nivel": "Alto",
+        "descripcion": "Maestra de la naturaleza, conectada con el bosque."
     },
     {
         "id": 19,
@@ -149,7 +185,9 @@
         "rango": "Encantadora del Crepúsculo",
         "apariencia": "Cabello púrpura, sonrisa siniestra",
         "poderes": "Hipnosis, crear maldiciones",
-        "img": "https://cdn.pixabay.com/photo/2020/02/14/06/07/witch-4847576_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2020/02/14/06/07/witch-4847576_1280.png",
+        "nivel": "Alto",
+        "descripcion": "Misteriosa y peligrosa, con el poder de maldecir."
     },
     {
         "id": 20,
@@ -157,7 +195,9 @@
         "rango": "Bruja de las Sombras",
         "apariencia": "Capa oscura, sombrero negro, ojos profundos",
         "poderes": "Control de sombras, invocación de espectros",
-        "img": "https://cdn.pixabay.com/photo/2018/09/20/18/24/the-witch-3691556_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2018/09/20/18/24/the-witch-3691556_1280.png",
+        "nivel": "Muy alto",
+        "descripcion": "Brillante en la magia de sombras, invoca espíritus oscuros."
     },
     {
         "id": 21,
@@ -165,7 +205,9 @@
         "rango": "No Muerto Común",
         "apariencia": "Piel descompuesta, ojos vacíos",
         "poderes": "Fuerza básica, resistencia al dolor",
-        "img": "https://cdn.pixabay.com/photo/2017/01/27/14/50/zombie-2013270_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2017/01/27/14/50/zombie-2013270_1280.png",
+        "nivel": "Medio",
+        "descripcion": "El tipo más común de zombi, lento pero resistente."
     },
     {
         "id": 22,
@@ -173,7 +215,9 @@
         "rango": "Devorador de Carne",
         "apariencia": "Sangre en la boca, manos ensangrentadas",
         "poderes": "Capacidad para detectar carne viva",
-        "img": "https://cdn.pixabay.com/photo/2016/12/28/22/53/zombie-1937345_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2016/12/28/22/53/zombie-1937345_960_720.png",
+        "nivel": "Muy alto",
+        "descripcion": "Un zombi feroz y hambriento que busca carne viva."
     },
     {
         "id": 23,
@@ -181,7 +225,9 @@
         "rango": "Marchador Sin Fin",
         "apariencia": "Extremidades desgastadas, mirada vacía",
         "poderes": "Movimiento constante, insensibilidad al dolor",
-        "img": "https://cdn.pixabay.com/photo/2024/08/11/05/26/ai-generated-8960684_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2024/08/11/05/26/ai-generated-8960684_960_720.png",
+        "nivel": "Bajo",
+        "descripcion": "Un zombi persistente que nunca se detiene."
     },
     {
         "id": 24,
@@ -189,7 +235,9 @@
         "rango": "Resucitado por Magia Negra",
         "apariencia": "Marcas rituales, ojos enrojecidos",
         "poderes": "Resistencia mágica, fuerza mejorada",
-        "img": "https://cdn.pixabay.com/photo/2024/05/01/01/16/creepy-8731223_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2024/05/01/01/16/creepy-8731223_960_720.png",
+        "nivel": "Muy alto",
+        "descripcion": "Un ser resucitado con magia oscura, con gran poder."
     },
     {
         "id": 25,
@@ -197,7 +245,9 @@
         "rango": "Muerto Caminante",
         "apariencia": "Andar torpe, manos extendidas",
         "poderes": "Regeneración lenta, insensibilidad al daño",
-        "img": "https://cdn.pixabay.com/photo/2017/01/09/14/59/zombie-1966751_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2017/01/09/14/59/zombie-1966751_1280.png",
+        "nivel": "Bajo",
+        "descripcion": "Camina sin rumbo, regenerándose lentamente."
     },
     {
         "id": 26,
@@ -205,7 +255,9 @@
         "rango": "Vástago Sombrío",
         "apariencia": "Sin cabello, aspecto melancólico",
         "poderes": "Control de sombras, vuelo",
-        "img": "https://cdn.pixabay.com/photo/2016/04/26/22/30/daemon-1355471_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2016/04/26/22/30/daemon-1355471_960_720.png",
+        "nivel": "Bajo",
+        "descripcion": "Un vampiro triste y solitario, maestro de las sombras."
     },
     {
         "id": 27,
@@ -213,7 +265,9 @@
         "rango": "Rastreador",
         "apariencia": "Nariz afilada, siempre alerta",
         "poderes": "Olfato preciso, agilidad",
-        "img": "https://cdn.pixabay.com/photo/2022/01/10/18/33/animal-6929020_1280.png"
+        "img": "https://cdn.pixabay.com/photo/2022/01/10/18/33/animal-6929020_1280.png",
+        "nivel": "Bajo",
+        "descripcion": "Un cazador nato, siempre alerta y listo para rastrear."
     },
     {
         "id": 28,
@@ -221,7 +275,9 @@
         "rango": "Conjuradora de Espíritus",
         "apariencia": "Varita mágica, uñas largas de color negro",
         "poderes": "Invocación de almas, maldiciones avanzadas",
-        "img": "https://cdn.pixabay.com/photo/2020/08/16/01/34/fantasy-5491634_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2020/08/16/01/34/fantasy-5491634_960_720.png",
+        "nivel": "Medio",
+        "descripcion": "Especialista en invocar espíritus y lanzar maldiciones."
     },
     {
         "id": 29,
@@ -229,6 +285,8 @@
         "rango": "El Resucitado",
         "apariencia": "Cuerpo parcialmente restaurado",
         "poderes": "Resurrección, fuerza inusual",
-        "img": "https://cdn.pixabay.com/photo/2024/05/01/01/07/creepy-8731210_960_720.png"
+        "img": "https://cdn.pixabay.com/photo/2024/05/01/01/07/creepy-8731210_960_720.png",
+        "nivel": "Medio",
+        "descripcion": "Un zombi restaurado parcialmente, con fuerza increíble."
     }
 ]
