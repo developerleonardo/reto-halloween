@@ -1,0 +1,21 @@
+.navbar {
+    width: 100%;
+    background-color: var(--white);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    position: fixed;
+    color: var(--primary);
+    padding: 20px 32px;
+    font-family: "Metal Mania", system-ui;
+    font-size: var(--lg);
+    z-index: 10;
+}
+.navbar__contact a {
+    color: var(--white);
+    text-decoration: none;
+    padding: 8px 16px;
+    background: var(--primary);
+    border-radius: 10px;
+}

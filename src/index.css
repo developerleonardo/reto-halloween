@@ -1,0 +1,19 @@
+:root {
+    --background: #050505;
+    --white: #ededed;
+    --gray: #484848;
+    --primary: #EF6537;
+    --secondary: #FF5104;
+    --tertiary: #8A6BA1;
+    --xxl: 64px;
+    --lg: 18px;
+    --md: 16px;
+}
+body {
+    width: 100%;
+    min-height: 100vh;
+}
+#root {
+    width: 100%;
+    min-height: 100vh;
+}

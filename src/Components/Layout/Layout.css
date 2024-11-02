@@ -1,0 +1,9 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 1280px;
+    min-height: calc(100vh - 120px);
+    margin-top: 80px;
+    grid-area: "main";
+}
