@@ -8,7 +8,6 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     background: var(--gray);
     box-sizing: border-box;
-    cursor: pointer;
 }
 .card__img__container {
     width: 100%;

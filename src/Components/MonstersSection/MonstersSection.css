@@ -13,7 +13,7 @@
     margin: 20px 0;
 }
 .search-bar {
-    width: 300px;
+    width: 250px;
     padding: 8px;
     border-radius: 10px;
     background: var(--white);
@@ -23,6 +23,7 @@
 .buttons__container {
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
 }
 .monsters-container {
     width: 100%;
@@ -41,4 +42,9 @@
 .search-button:hover {
     cursor: pointer;
     background: #5f5e5e;
+}
+@media screen and (width < 976px) {
+    .monsters-container {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
 }
